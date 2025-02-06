@@ -1,5 +1,5 @@
 # Guess the number
-## PAOLA SONIA
+## PAO ESTA REALIZANDO UN MANUAL
 ## Configuración del Entorno
 
 Sigue estos pasos para configurar tu entorno y comenzar a trabajar en el proyecto **Guess_the_number**.
