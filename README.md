@@ -1,7 +1,7 @@
 # Guess the number
-## PAO ESTA REALIZANDO UN MANUAL
+## Hi!!!!
 ## Configuración del Entorno
-
+### Hi !!!!
 Sigue estos pasos para configurar tu entorno y comenzar a trabajar en el proyecto **Guess_the_number**.
 
 ### 1. Instalar Visual Studio Code
